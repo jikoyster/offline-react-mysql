@@ -1,4 +1,4 @@
-first do:
-/npm install
-then,
-/npm start
+first do:  
+  npm install
+then,  
+  npm start
