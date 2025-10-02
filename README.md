@@ -1,4 +1,4 @@
 first do:  
-  npm install
+  npm install  
 then,  
   npm start
